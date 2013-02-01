@@ -32,7 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="boardClass.cpp" />
+		<Unit filename="boardClass.h" />
+		<Unit filename="gameClass.cpp" />
+		<Unit filename="gameClass.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="playerClass.cpp" />
+		<Unit filename="playerClass.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
